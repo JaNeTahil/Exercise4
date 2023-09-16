@@ -6,6 +6,6 @@
     
 </head>
 <body>
-    <h1>&#9731; Snowman Productions &reg;</h1></h1>
+    <h1>&#9731; Snowman Productions &reg;<!--</sup></h1>-->
 </body>
 </html>
